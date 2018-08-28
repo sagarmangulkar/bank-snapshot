@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp out/artifacts/Programming_Assignment_3_DS_jar/Programming_Assignment_3_DS.jar Controller $1 $2
